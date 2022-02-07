@@ -19,7 +19,7 @@
 - 톤온톤 : 동일한 색상 다른 톤
 - 톤인톤 : 동일한 톤 다른 색상
 
-![톤온톤-톤인톤-뜻](img\톤온톤-톤인톤-뜻.png)
+![톤온톤-톤인톤-뜻](/img/톤온톤-톤인톤-뜻.png)
 
 
 
@@ -29,7 +29,7 @@
 
 톤은 PCCS 색체계를 참고하였으며, 1440개의 rgb, hsv 값을 바탕으로 톤을 분류해 놓은 데이터를 가지고 16,777,216(256\*256\*256)개의 rgb, hsv 값에 대한 톤을 분류해내는 인공지능을 제작하였다.
 
-![퍼스널컬러인스트럭터자격증 PCCS 색체계에 대해서 : 네이버 블로그](C:\Users\SAMSUNG\Desktop\gitProject\DYS\img\pccs.png)
+![퍼스널컬러인스트럭터자격증 PCCS 색체계에 대해서 : 네이버 블로그](/img/pccs.png)
 
 
 
@@ -91,15 +91,15 @@ DeepFashion2 데이터에서는 옷을 13가지 카테고리로 분류해 놓았
 
 #### 결과
 
-![val_batch0_labels](img\val_batch0_labels.jpg)
+![val_batch0_labels](/img/val_batch0_labels.jpg)
 
 이 사진은 DeepFashion2에서 사진에 대해 라벨링을 붙이 데이터들이며, 아래 사진은 우리가 YOLO를 사용하여 학습 시킨 모델이 사진에서 상의와 하의를 구분해낸 결과이다.
 
-![val_batch0_pred](img\val_batch0_pred.jpg)
+![val_batch0_pred](/img/val_batch0_pred.jpg)
 
 완벽하게 분류를 하지는 못했지만 꽤 높은 정확도로 상의와 하의를 구분해내고 있는 것을 볼 수 있었다.
 
-![결과](img\결과.PNG)
+![결과](/img/결과.PNG)
 
 YOLO 학습 결과이다.
 
@@ -113,7 +113,7 @@ YOLO에서 딕텍션한 부분을 GrabCut을 이용하여 배경을 제거하여
 
 #### 결과
 
-![image-20220206003635109](img\image-20220206003635109.png)
+![image-20220206003635109](/img/image-20220206003635109.png)
 
 위는 원본과 GrabCut을 이용하여 배경을 제거한 사진들 중 일부를 가져온 것이다.
 
