@@ -1,0 +1,15 @@
+$ python detect.py --source 0  # webcam
+                            file.jpg  # image
+                            file.mp4  # video
+                            path/  # directory
+                            path/*.jpg  # glob
+                            'https://youtu.be/NUsoVlDFqZg'  # YouTube
+                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+
+python detect.py --source 0
+python detect.py --source ./data/images/chiyoon.jpg
+python detect.py --source ./data/videos/KakaoTalk_20210824_213900050.mp4
+python detect.py --source "./data/images and videos/"
+python detect.py --source "./data/images and videos/*.jpg"
+python detect.py --source https://youtu.be/NUsoVlDFqZg
+python detect.py --source 'rtsp://example.com/media.mp4'
