@@ -1,0 +1,10 @@
+short_top
+long_top
+short_Tshirt
+long_Tshirt
+short_neatwear
+long_neatwear
+short_shirt
+long_shirt
+short_hood
+long_hood

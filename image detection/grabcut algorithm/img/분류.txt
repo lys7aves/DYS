@@ -1,0 +1,11 @@
+lable	Code	Class
+0	TS	T-shirt/top
+1	TR	Trouser
+2	PU	Pullover
+3	DR	Dress
+4	CO	Coat
+5	SA	Sandal
+6	SH	Shirt
+7	SN	Sneaker
+8	BA	Bag
+9	AN	Ankle boot

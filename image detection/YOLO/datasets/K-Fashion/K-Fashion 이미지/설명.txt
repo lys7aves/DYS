@@ -1,0 +1,10 @@
+*** Merge Data.ipynb ***
+Training
+ㄴ라벨링데이터
+ㄴ원천데이터
+위 두 폴더 안에 느낌 폴더가 있고 그 안에 데이터들이 있음.
+이를 Merge Data 코드로 아래와 같이 폴더 안에 바로 데이터가 있도록 바꿈
+Trainig
+ㄴ라벨링데이터_all_in_one
+ㄴ원천데이터_all_in_one
+

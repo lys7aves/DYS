@@ -1,0 +1,10 @@
+./images/practice/000001.jpg
+./images/practice/000002.jpg
+./images/practice/000003.jpg
+./images/practice/000004.jpg
+./images/practice/000005.jpg
+./images/practice/000006.jpg
+./images/practice/000007.jpg
+./images/practice/000008.jpg
+./images/practice/000009.jpg
+./images/practice/000010.jpg
