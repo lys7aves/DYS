@@ -49,7 +49,7 @@ color classification은 앞서 말한 rgb, hsv 값에서 톤을 추출하는 인
 
 PCCS에서는 색을 무채색과 12가지 톤으로 분류하였다.
 
-톤을 분류하는 인공지능을 만들기 위해 1440개의 rgb와 hsv 값을 12개의 톤으로 분류한 [데이터](/color classification/data/원본/pccstorgb.xlsx)를 사용하였다.
+톤을 분류하는 인공지능을 만들기 위해 1440개의 rgb와 hsv 값을 12개의 톤으로 분류한 [데이터](https://github.com/lys7aves/DYS/blob/main/color%20classification/data/%EC%9B%90%EB%B3%B8/pccstorgb.xlsx)를 사용하였다.
 
 
 
